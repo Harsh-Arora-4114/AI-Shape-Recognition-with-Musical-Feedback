@@ -155,5 +155,4 @@ python predict.py path/to/image.png
 ## **Author**
 
 Developed by **Harsh Arora**
-
 ---
