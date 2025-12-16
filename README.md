@@ -1,4 +1,4 @@
-# **A CNN-Based Shape Classifier with Music Playback**
+# **AI Shape Recognition with Musical Feedback**
 
 ## **Overview**
 
